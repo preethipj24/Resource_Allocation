@@ -69,7 +69,7 @@ Download Git
 Setting Up the Project
 1. Clone the Repository
 Clone the repository to your local machine using Git:
-git clone https://github.com/yourusername/resource-allocation-project.git
+git clone https://github.com/preethipj24/Resource_allocation.git
 2. Setting Up the Backend (Spring Boot)
    
 Step 1: Configure MySQL Database
